@@ -12,4 +12,5 @@ Programming. First month to do this.
 2020/1/2
 Today, I learn how to use emoji.
 Just use : and another :
+
 :art:
